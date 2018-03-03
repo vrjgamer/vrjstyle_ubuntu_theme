@@ -7,7 +7,5 @@ wget https://github.com/vrjgamer/vrjstyle_ubuntu_theme/blob/master/first_run_ins
 bash first_run_install.sh
 ```
 
-
-
 ![Screen1](https://github.com/vrjgamer/vrjstyle_ubuntu_theme/blob/master/screenshots/screen_2.png)
 ![Screen2](https://github.com/vrjgamer/vrjstyle_ubuntu_theme/blob/master/screenshots/theme_screen.png)
