@@ -3,7 +3,7 @@ A theme for ubuntu which i like
 
 Just run the following commands:
 ```
-wget https://github.com/vrjgamer/vrjstyle_ubuntu_theme/blob/master/first_run_install.sh
+wget https://raw.githubusercontent.com/vrjgamer/vrjstyle_ubuntu_theme/master/first_run_install.sh
 bash first_run_install.sh
 ```
 
